@@ -1,11 +1,11 @@
 [
     {
-    "repository":  "TheMuppets/proprietary_vendor_nextbit",
+    "repository":  "n3xtbit/proprietary_vendor_nextbit",
     "target_path": "vendor/nextbit",
     "branch":      "cm-13.0"
   },
   {
-    "repository": "deadman96385/android_kernel_nextbit_msm8992",
+    "repository": "n3xtbit/android_kernel_nextbit_msm8992",
     "target_path": "kernel/nextbit/msm8992",
     "branch":      "cm-13.0"
   }
