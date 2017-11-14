@@ -1,16 +1,16 @@
 [
     {
-    "repository":  "N3xtBit/proprietary_vendor_nextbit",
+    "repository":  "OsROMS/proprietary_vendor_nextbit",
     "target_path": "vendor/nextbit",
     "branch":      "cm-14.1"
   },
     {
-    "repository":  "N3xtBit/android_device_qcom_common",
+    "repository":  "OsROMS/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "branch":      "cm-14.1"
   },
     {
-    "repository":  "N3xtBit/android_kernel_nextbit_msm8992",
+    "repository":  "OsROMS/android_kernel_nextbit_msm8992",
     "target_path": "kernel/nextbit/msm8992",
     "branch":      "cm-14.1"
   }
