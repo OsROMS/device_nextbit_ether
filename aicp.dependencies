@@ -1,11 +1,11 @@
 [
     {
-    "repository":  "n3xtbit/proprietary_vendor_nextbit",
+    "repository":  "OsROMS/proprietary_vendor_nextbit",
     "target_path": "vendor/nextbit",
     "branch":      "cm-13.0"
   },
   {
-    "repository": "n3xtbit/android_kernel_nextbit_msm8992",
+    "repository": "OsROMS/android_kernel_nextbit_msm8992",
     "target_path": "kernel/nextbit/msm8992",
     "branch":      "cm-13.0"
   }
