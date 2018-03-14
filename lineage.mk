@@ -20,6 +20,10 @@ BOARD_VENDOR := nextbit
 TARGET_VENDOR := nextbit
 PRODUCT_DEVICE := ether
 
+# AICP Device Maintainers
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    DEVICE_MAINTAINERS="Marcin Flaumenhaft (†13™Ciachooツ)"
+
 PRODUCT_BRAND := Nextbit
 PRODUCT_MODEL := Robin
 PRODUCT_MANUFACTURER := Nextbit
