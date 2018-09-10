@@ -13,5 +13,10 @@
     "repository":  "OsROMS/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "branch":      "lineage-15.1"
+  },
+  {
+    "repository":  "OsROMS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch":      "lineage-15.1"
   }
 ]
